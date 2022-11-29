@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocationDectector</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Location</string>
+    <string name="second_fragment_label">Map Location</string>
+    <string name="next">View Map Location</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="current_location_title">Your Current Location is :</string>
+    <string name="no_internet_msg">Please connect to internet to get precise address.</string>
+    <string name="no_internet_initial_msg">Connect to internet to get initial current location.</string>
+    <string name="allow_location_permission_message">Location permission is needed to get precise location..</string>
+</resources>

@@ -1,0 +1,4 @@
+ext {
+    google_location_version = "21.0.1"
+    google_maps_version = "18.1.0"
+}
